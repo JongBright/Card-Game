@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1622498063 source:c:\users\hivc\c++ projects\card game\src\game.cpp
+	"game.h"
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1622494072 c:\users\hivc\c++ projects\card game\include\game.h
+
+1622497690 source:c:\users\hivc\c++ projects\card game\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"game.h"
+	<ctime>
+
